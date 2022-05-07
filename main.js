@@ -109,7 +109,7 @@ for(let año=2012; año<=2022; año++) {
             break;
     }
 }
-alert("Añadiremos nuevas funciones a medida que el tiempo pase , sin embargo tambien contamos con un calculador de impuestos y descuentos en cualquier valor que nos propongas ademas de si eres capaz de ingresar a a la consola obtendras un bonus con un contador de dias meses y los ultimos 10 años")
+alert("Añadiremos Nuevas funciones a medida que el tiempo pase , sin embargo tambien contamos con un calculador de impuestos y descuentos en cualquier valor que nos propongas ademas de si eres capaz de ingresar a a la consola obtendras un bonus con un contador de dias meses y los ultimos 10 años")
 
 let valor = parseFloat(prompt("ingrese el valor que desea calcular"))
 let descuento = parseFloat(prompt("ingrese el valor del Descuento , si no tiene un descuento y solo desea calcular el impuesto ingrese 0"))
